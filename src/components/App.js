@@ -2,6 +2,7 @@ import React from 'react'
 
 import Filters from './Filters'
 import PetBrowser from './PetBrowser'
+import Pet from './Pet'
 
 class App extends React.Component {
   constructor() {
